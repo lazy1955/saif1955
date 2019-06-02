@@ -1,6 +1,7 @@
-token=
-owner=  
-prefix= 
-game= Type help
+token=NTg0ODIyOTQ5NzYwOTkxMjMz.XPQhKw.dCfQJkGEdXCCx_qjwJrE2UshfLw
+
+owner=277896186751352832  
+prefix=s 
+game=Close your eyes and ask my whatever you want.
 stayinchannel=true
 songinstatus=true
